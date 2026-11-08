@@ -1,0 +1,12 @@
+# Depurar o progama passo a passo e analisar a execucão das linhas de codigo
+print("=== JOGOS DA RODADA 28 DO BRASILEIRÃO ===")
+print("Jogo 1: Flamengo vs Bragantino")
+print("Jogo 2: São Paulo vs Internacional")
+print("Jogo 3: Corinthians vs Fluminense")
+print("Jogo 4: Vasco vs Coritiba")
+print("Jogo 5: Atlético-MG vs Chapecoense")
+print("Jogo 6: Grêmio vs Palmeiras")
+print("Jogo 7: Remo vs Santos")
+print("Jogo 8: Athletico-PR vs Bahia")
+print("Jogo 9: Mirassol vs Botafogo")
+print("Jogo 10: Vitoria vs Cruzeiro")
